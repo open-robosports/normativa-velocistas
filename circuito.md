@@ -1,3 +1,5 @@
+# Circuito
+
 El circuito consiste en una lona de color blanco con dos líneas negras que indican la trayectoria que debe seguir el robot. Estas líneas al mismo tiempo se utilizarán como guías que el robot podrá leer para conocer su posición.
 
 La trayectoria definida por las líneas será cerrada, es decir, el punto de inicio y el punto de meta serán el mismo.

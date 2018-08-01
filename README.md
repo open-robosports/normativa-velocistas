@@ -5,7 +5,7 @@ TO-DO: foto de competición de velocistas.
 
 # Índice
 
- - [Robots y homologación](robots.md)
+ - [Robots](robots.md)
  - [Circuito](circuito.md)
  - [Puntuación](combates.md)
 

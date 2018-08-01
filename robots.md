@@ -1,4 +1,4 @@
-# Especificaciones de los robots
+# Robots
 
 Los robots deben ser capaces de desplazarse por el circuito siguiendo una línea marcada en la superficie.
 En cuanto a su estructra, deberán cumplir una serie de requisitos de tamaño y peso para poder homologar. Estos requisitos se refieren al robot en estado completo de marcha (con ruedas, baterías... etc), siendo importante que se cumplan durante todo el desarrollo de la prueba.
