@@ -19,15 +19,12 @@ Esta normativa se basa en el trabajo previo de otras competiciones de robots vel
  - [AlejandraSaku](https://github.com/AlejandraSaku)
  - [JavierIH](https://github.com/JavierIH)
 
+# Recursos de interés
+
+ - [Cyclops](https://github.com/Resaj/cyclops-project)
+ - [Raptor](https://bricolabs.cc/wiki/proyectos/raptor)
+ - [VelociBotCBR](http://www.cantabrobots.es/?page_id=179)
+
 # Licencia
 
 <p align="center"><img src="images/by-sa.png" width="200" align = "center"></p>
-
-
-# Recursos de interés
-
-[Cyclops](https://github.com/Resaj/cyclops-project)
-
-[Raptor](https://bricolabs.cc/wiki/proyectos/raptor)
-
-[VelociBotCBR](http://www.cantabrobots.es/?page_id=179)
