@@ -5,7 +5,8 @@ En cuanto a su estructra, deberán cumplir una serie de requisitos de tamaño y 
 
 El peso máximo de los robots será inferior o igual a **2kg**. Las medidas máximas de los velocistas no deberán superar en ningún caso los **30cm** de largo, **20cm** de ancho y **13cm** de alto. Para asegurar que se cumplen estas medidas podrá emplearse un cajón de verificaciones en el que se deberán introducir los robots antes de competir. En la siguiente figura se muestra cómo debe ser medido un velocista.
 
-TO-DO: añadir diagrama de robot.
+<p align="center"><img src="images/longitudyanchura.png" height="500px" align = "center"></p>
+
 
 El funcionamiento de los velocistas debe ser autónomo, tanto en su sistema de control y su alimentación, y estará integrado en el propio robot.
 Si el robot posee algún tipo de comunicación inalámbrica, esta deberá ser mostrada a los jueces con el objetivo de verificar que no se utilizará durante la prueba.
