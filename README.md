@@ -24,6 +24,7 @@ Esta normativa se basa en el trabajo previo de otras competiciones de robots vel
  - [Cyclops](https://github.com/Resaj/cyclops-project)
  - [Raptor](https://bricolabs.cc/wiki/proyectos/raptor)
  - [VelociBotCBR](http://www.cantabrobots.es/?page_id=179)
+ - [Pandatron](https://github.com/JavierIH/pandatron)
 
 # Licencia
 
