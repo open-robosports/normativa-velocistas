@@ -12,4 +12,5 @@ La superficie de la pista podrá presentar pequeñas irregularidades, aunque se 
 
 A continuación se muestra un trazado típico para una competición de velocistas.
 
-TO-DO: imagen de circuito.
+
+<p align="center"><img src="https://raw.githubusercontent.com/Resaj/basic-circuit-maker/master/images/circuito.bmp"></p>
