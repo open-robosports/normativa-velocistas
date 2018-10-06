@@ -1,7 +1,7 @@
 # Normativa para velocistas
 La categoría de velocistas consiste en una prueba de velocidad en la que los robots deberán recorrer un circuito de forma autónoma en el menor tiempo posible.
 
-TO-DO: foto de competición de velocistas.
+<p align="center"><img src="images/competicion.png" align = "center"></p>
 
 # Índice
 
