@@ -1,13 +1,13 @@
 # Normativa para velocistas
 La categoría de velocistas consiste en una prueba de velocidad en la que los robots deberán recorrer un circuito de forma autónoma en el menor tiempo posible.
 
-<p align="center"><img src="images/competicion.png" align = "center"></p>
+<p align="center"><img src="images/competicion.png" height="400px" align = "center"></p>
 
 # Índice
 
- - [Robots](robots.md)
+ - [Robots y homologación](robots.md)
  - [Circuito](circuito.md)
- - [Puntuación](puntuacion.md)
+ - [Carreras y puntuación](puntuacion.md)
 
 
 # Atribuciones
