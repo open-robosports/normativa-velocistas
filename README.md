@@ -7,7 +7,7 @@ TO-DO: foto de competición de velocistas.
 
  - [Robots](robots.md)
  - [Circuito](circuito.md)
- - [Puntuación](combates.md)
+ - [Puntuación](puntuacion.md)
 
 
 # Atribuciones
