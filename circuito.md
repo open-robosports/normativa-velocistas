@@ -6,6 +6,8 @@ La trayectoria definida por las líneas será cerrada, es decir, el punto de ini
 
 Las líneas negras tendrán un grosor de **2cm**, y estarán separadas la una de la otra una distancia de **20cm**. Las curvas tendrán un radio mínimo de **40cm**. Entre el borde exterior de la lona y el trazado habrá un margen mínimo libre de obstáculos de al menos **10cm**.
 
+En dos zonas del trazado se situarán marcas de salida a ambos lados del recorrido, separadas 10cm de las líneas a seguir. Estos dos puntos de salida dividirán el recorrido en dos partes igual de largas, de tal manera que ninguno de los dos robots que compiten en modo persecución tenga ventaja uno sobre el otro, saliendo cada uno desde detrás de una de las líneas de salida.
+
 En el caso de existir elementos tridimensionales tales como curvas peraltadas, puentes, cambios de rasante... etc, se avisará a los participantes antes de la prueba. Adicionalmente, estos elementos serán lisos, sin escalones, y no presentarán inclinaciones mayores de **25º**
 
 La superficie de la pista podrá presentar pequeñas irregularidades, aunque se intentará que sea lo más lisa posible. Además, la pista podrá estar iluminada con diferentes niveles de luminosidad, pero se intentará que la iluminación no sea agresiva y esté distribuída de forma uniforme a lo largo de todo el circuito. No se garantiza la no exitencia de flashes u otras perturbaciones lumínicas provocadas por el público en ocasiones puntuales. Adicionalmente, se procurará que la pista se mantenga lo más limpia posible durante el desarrollo de la competición, pudiendo llegar a penalizar a los participantes que pisen y/o encucien las líneas.
