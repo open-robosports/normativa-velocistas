@@ -19,7 +19,9 @@ La salida se realizará por detrás de la línea de meta y el cronómetro no emp
 
 Si el robot no consigue completar ninguno de los intentos, se tendrá en cuenta la distancia del trazado que haya sido capa de recorrer para determinar la clasificación. En el caso de que el robot no sea capaz de iniciar la salida por avería o problemas de puesta a punto se le permitirá repetir el intento. Si tras haberlo repetido no consigue iniciar la marcha, se anulará el intento.
 
-IMPORTANTE: En eventos con tiempo limitado, se podrá prescindir de la fase clasificatoria y pasar directamente a la fase eliminatoria. En ese caso, los robots con más puntos en el ranking de la ORS se considerarán los primeros de la clasificación.
+Se clasificarán los 4, 8 o 16 robots con mejor tiempo, a elección de la organización del evento, que lo comunicará antes de la realización de la competición. El número de robots clasificados definirá el número de rondas eliminatorias.
+
+IMPORTANTE: En eventos con tiempo limitado, se podrá prescindir de la fase clasificatoria y pasar directamente a la fase eliminatoria con todos los robots participantes. En ese caso, los robots con más puntos en el ranking de la ORS se considerarán los primeros de la clasificación.
 
 ## Fase eliminatoria
 
