@@ -17,8 +17,8 @@ El robot, tanto por construcción o programación, debe permitir su utilización
 
 La elección de sensores para los robots y su tipología es libre. Además, se permite que el robot aprenda o memorice el trazado del circuito de manera autónoma durante la competición. No se permite aprender o memorizar el circuito ni programar sus dimensiones en las fases previas a la competición o durante las fases de prueba del circuito.
 
-Se permite el uso de aditivos siempre y cuando estos no degraden o ensucien el circuito.
+Se permite el uso de aditivos siempre y cuando estos no degraden o ensucien el circuito. En tal caso los jueces realizarían una advertencia, anulando incluso la ronda de clasificación o concediendo el punto del enfrentamiento en la ronda eliminatoria al robot contrincante. Los jueces podrán comprobar el estado de las ruedas antes de la puesta en marcha del robot, haciéndolas rodar sobre un folio blanco para comprobar si desprenden líquidos o deja marcas de suciedad. Si el robot del competidor advertido reincide ensuciando de nuevo la pista, los jueces podrán descalificarlo.
 
-Se permite el uso de sistemas de ayuda a la tracción como turbinas, alerones móviles, suspensiones... etc.
+Se permite el uso de sistemas de ayuda a la tracción como turbinas, alerones móviles, suspensiones, etc.
 
 No se permite sobre el robot ningún tipo de inscripción ni dibujo que pueda atentar contra la dignidad de personas y/o colectivos, consignas políticas o cualquiera otro que pueda considerarse de mal gusto por parte de los jueces.
