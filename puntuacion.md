@@ -12,7 +12,7 @@ Los robots competirán individualmente y deberán dar **3** vueltas consecutivas
 
 Se permite que el participante elija el carril sobre el que circulará su robot. También se permite que el robot realice cambios de carril de forma autónoma durante la ejecución de la prueba.
 
-La salida se realizará por detrás de la línea de meta y el cronómetro no empezará a contar hasta que el robot la cruce.
+En esta fase de clasificación, la salida y la meta coinciden en la misma línea, donde se colocará un cronómetro que detecte automáticamente el paso del robot para mayor precisión de la medida de tiempos. El robot ha de iniciar la marcha inmediatamente detrás de la línea de salida, imposibilitando una aceleración previa para tomar la salida con velocidad. El cronómetro comenzará a contar el tiempo en el momento en que detecte el paso del robot por la línea de salida y parará una vez el robot vuelva a cruzar la línea.
 
 Si el robot no consigue completar las tres vueltas, solo se tendrá en cuenta el tiempo de las vueltas que haya completado. En el caso de que el robot no sea capaz de completar ni una sola vuelta (ya sea por salida de la pista, arranque nulo o cualquier otro incidente) se le permitirá realizar un segundo intento. Si tras el segundo intento el robot no consigue completar ninguna vuelta, clasificará en la última posición.
 
