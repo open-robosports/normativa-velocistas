@@ -8,15 +8,20 @@ La prueba se desarrollará en dos fase: clasificación y eliminatorias.
 
 ## Fase de clasificación
 
-Los robots competirán individualmente y deberán dar **3** vueltas consecutivas cronometradas al circuito. Solo se tendrá en cuenta el tiempo de la vuelta más rápida.
+Dos intentos de una vuelta, sin reprogramar el robot entre intentos (con el ordenador).
 
-Se permite que el participante elija el carril sobre el que circulará su robot. También se permite que el robot realice cambios de carril de forma autónoma durante la ejecución de la prueba.
+
+Los robots competirán individualmente en dos intentos de **1** vuelta cronometrada al circuito. Solo se tendrá en cuenta el tiempo de la vuelta más rápida para la clasificación y no se permite reprogramar el robot entre intentos.
+
+Se permite que el participante elija el carril sobre el que circulará su robot y que éste realice cambios de carril de forma autónoma durante la ejecución de la prueba.
 
 En esta fase de clasificación, la salida y la meta coinciden en la misma línea, donde se colocará un cronómetro que detecte automáticamente el paso del robot para mayor precisión de la medida de tiempos. El robot ha de iniciar la marcha inmediatamente detrás de la línea de salida, imposibilitando una aceleración previa para tomar la salida con velocidad. El cronómetro comenzará a contar el tiempo en el momento en que detecte el paso del robot por la línea de salida y parará una vez el robot vuelva a cruzar la línea.
 
-Si el robot no consigue completar las tres vueltas, solo se tendrá en cuenta el tiempo de las vueltas que haya completado. En el caso de que el robot no sea capaz de completar ni una sola vuelta (ya sea por salida de la pista, arranque nulo o cualquier otro incidente) se le permitirá realizar un segundo intento. Si tras el segundo intento el robot no consigue completar ninguna vuelta, clasificará en la última posición.
+Si el robot no consigue completar ninguno de los intentos, se tendrá en cuenta la distancia del trazado que haya sido capa de recorrer para determinar la clasificación. En el caso de que el robot no sea capaz de iniciar la salida por avería o problemas de puesta a punto se le permitirá repetir el intento. Si tras haberlo repetido no consigue iniciar la marcha, se anulará el intento.
 
-IMPORTANTE: En eventos con tiempo limitado, se podrá prescindir de la fase clasificatoria y pasar directamente a la fase eliminatoria. En ese caso, los robots con más puntos en el ranking de la ORS se considerarán los primeros de la clasificación.
+Se clasificarán los 4, 8 o 16 robots con mejor tiempo, a elección de la organización del evento, que lo comunicará antes de la realización de la competición. El número de robots clasificados definirá el número de rondas eliminatorias.
+
+IMPORTANTE: En eventos con tiempo limitado, se podrá prescindir de la fase clasificatoria y pasar directamente a la fase eliminatoria con todos los robots participantes. En ese caso, los robots con más puntos en el ranking de la ORS se considerarán los primeros de la clasificación.
 
 ## Fase eliminatoria
 
