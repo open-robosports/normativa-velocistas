@@ -18,6 +18,7 @@ Esta normativa se basa en el trabajo previo de otras competiciones de robots vel
 
  - [AlejandraSaku](https://github.com/AlejandraSaku)
  - [JavierIH](https://github.com/JavierIH)
+ - [Resaj](https://github.com/Resaj)
 
 # Recursos de interés
 
