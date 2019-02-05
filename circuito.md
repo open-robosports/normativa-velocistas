@@ -4,7 +4,7 @@ El circuito consiste en una lona de color blanco con dos líneas negras que indi
 
 La trayectoria definida por las líneas será cerrada, es decir, el punto de inicio y el punto de meta serán el mismo.
 
-Las líneas negras tendrán un grosor de **20+-2mm**, y habrá una separación entre sus centros de **20+-1cm**. Las curvas tendrán un radio mínimo de **40+-2cm**. Entre el borde exterior de la lona y el trazado habrá un margen mínimo libre de obstáculos de al menos **10cm**.
+Las líneas negras tendrán un grosor de **20±2mm**, y habrá una separación entre sus centros de **20±1cm**. Las curvas tendrán un radio mínimo de **40±2cm**. Entre el borde exterior de la lona y el trazado habrá un margen mínimo libre de obstáculos de al menos **10cm**.
 
 En el caso de existir elementos tridimensionales tales como curvas peraltadas, puentes, cambios de rasante... etc, se avisará a los participantes antes de la prueba. Adicionalmente, estos elementos serán lisos, sin escalones, y no presentarán inclinaciones mayores de **25º**
 
