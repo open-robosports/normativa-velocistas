@@ -22,10 +22,8 @@ Esta normativa se basa en el trabajo previo de otras competiciones de robots vel
 
 # Recursos de interés
 
- - [Cyclops](https://github.com/Resaj/cyclops-project)
- - [Raptor](https://bricolabs.cc/wiki/proyectos/raptor)
- - [VelociBotCBR](http://www.cantabrobots.es/?page_id=179)
- - [Pandatron](https://github.com/JavierIH/pandatron)
+ - [Lista de robots velocistas Open Source](https://open-robosports.github.io/kits/velocistas/)
+ - [Generador de circuitos de velocistas en Octave](https://github.com/Resaj/basic-circuit-maker)
 
 # Licencia
 
