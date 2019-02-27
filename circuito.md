@@ -4,9 +4,9 @@ El circuito consiste en una lona blanca de PVC con una o dos líneas negras que 
 
 La trayectoria definida por las líneas será cerrada, es decir, el punto de inicio y el punto de meta serán el mismo.
 
-Las líneas negras tendrán un grosor de **20±2mm**, y habrá una separación entre sus centros de **20±1cm**. Las curvas tendrán un radio mínimo de **40±2cm**. Entre el borde exterior de la lona y el trazado habrá un margen mínimo libre de obstáculos de al menos **10cm**, al igual que la separación mínima que ha de haber entre el trazado y cualquier obstáculo o impresión (ya sea publicidad o no) en la lona, siendo blanco homogéneo el fondo sobre el que se sitúa el trazado.
+Las líneas negras tendrán un grosor de **20±2 mm**, y habrá una separación entre sus centros de **20±1 cm**. Las curvas tendrán un radio mínimo de **40±2 cm**. Entre el borde exterior de la lona y el trazado habrá un margen mínimo libre de obstáculos de al menos **10 cm**, al igual que la separación mínima que ha de haber entre el trazado y cualquier obstáculo o impresión (ya sea publicidad o no) en la lona, siendo blanco homogéneo el fondo sobre el que se sitúa el trazado.
 
-En dos zonas del trazado se situarán marcas de salida a ambos lados del recorrido, separadas 10cm de las líneas a seguir. Estos dos puntos de salida dividirán el recorrido en dos partes igual de largas, de tal manera que ninguno de los dos robots que compiten en modo persecución tenga ventaja uno sobre el otro, saliendo cada uno desde detrás de una de las líneas de salida.
+En dos zonas del trazado se situarán marcas de salida a ambos lados del recorrido, separadas **10 cm** de las líneas a seguir. Estos dos puntos de salida dividirán el recorrido en dos partes igual de largas, de tal manera que ninguno de los dos robots que compiten en modo persecución tenga ventaja uno sobre el otro, saliendo cada uno desde detrás de una de las líneas de salida.
 
 En el caso de existir elementos tridimensionales tales como curvas peraltadas, puentes, cambios de rasante... etc, se avisará a los participantes antes de la prueba. Adicionalmente, estos elementos serán lisos, sin escalones, y no presentarán inclinaciones mayores de **25º**
 
