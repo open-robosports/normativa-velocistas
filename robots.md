@@ -3,7 +3,7 @@
 Los robots deben ser capaces de desplazarse por el circuito siguiendo una línea marcada en la superficie.
 En cuanto a su estructura, deberán cumplir una serie de requisitos de tamaño y peso para poder homologar. Estos requisitos se refieren al robot en estado completo de marcha (con ruedas, baterías... etc), siendo importante que se cumplan durante todo el desarrollo de la prueba.
 
-El peso máximo de los robots será inferior o igual a **2kg**. Las medidas máximas de los velocistas no deberán superar en ningún caso los **30cm** de largo, **20cm** de ancho y **13cm** de alto. Para asegurar que se cumplen estas medidas podrá emplearse un cajón de verificaciones en el que se deberán introducir los robots antes de competir. En la siguiente figura se muestra cómo debe ser medido un velocista.
+El peso máximo de los robots será inferior o igual a **2 kg**. Las medidas máximas de los velocistas no deberán superar en ningún caso los **30 cm** de largo, **20 cm** de ancho y **13 cm** de alto. Para asegurar que se cumplen estas medidas podrá emplearse un cajón de verificaciones en el que se deberán introducir los robots antes de competir. En la siguiente figura se muestra cómo debe ser medido un velocista.
 
 <p align="center"><img src="images/longitudyanchura.png" height="500px" align = "center"></p>
 
@@ -11,7 +11,7 @@ El peso máximo de los robots será inferior o igual a **2kg**. Las medidas máx
 El funcionamiento de los velocistas debe ser autónomo, tanto en su sistema de control y su alimentación, y estará integrado en el propio robot.
 Si el robot posee algún tipo de comunicación inalámbrica, esta deberá ser mostrada a los jueces con el objetivo de verificar que no se utilizará durante la prueba.
 
-Al inicio, lo robots deben estar programados de forma que tras conectarse o pulsar un botón esperen **5** segundos antes de ponerse en marcha. Si un robot tarda menos de ese tiempo en empezar a moverse será descalificado.
+Al inicio, lo robots deben estar programados de forma que tras conectarse o pulsar un botón esperen **5 segundos** antes de ponerse en marcha. Si un robot tarda menos de ese tiempo en empezar a moverse será descalificado.
 
 El robot, tanto por construcción o programación, debe permitir su utilización sobre el circuito sin causar ningun daño a este ni a otros robots participantes.
 
