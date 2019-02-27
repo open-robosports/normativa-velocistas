@@ -7,7 +7,7 @@ La categoría de velocistas consiste en una prueba de velocidad en la que los ro
 
  - [Robots y homologación](robots.md)
  - [Circuito](circuito.md)
- - [Carreras y puntuación](puntuacion.md)
+ - [Competición](competicion.md)
 
 
 # Atribuciones

@@ -1,4 +1,4 @@
-# Desarrollo de la prueba y puntuación
+# Desarrollo de la prueba
 
 Todos los robots deberán presentarse antes de la competición para su verificación. Una vez verificados, los robots se pondrán en parque cerrado y no se permitirá modificar ni el hardware ni el sofware del robot, salvo en casos excepcionales y bajo la aprobación de los jueces de la competición.
 
