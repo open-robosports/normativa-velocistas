@@ -14,4 +14,4 @@ La superficie de la pista podrá presentar pequeñas irregularidades, aunque se 
 
 A continuación se muestra un trazado de ejemplo para una competición de velocistas:
 
-<p align="center"><img src="https://raw.githubusercontent.com/Resaj/basic-circuit-maker/master/images/circuito.bmp"></p>
+<p align="center"><img src="images/circuito_ejemplo.jpg" width="900" align = "center"></p>
