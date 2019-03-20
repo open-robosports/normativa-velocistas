@@ -1,4 +1,5 @@
-# Desarrollo de la prueba
+Desarrollo de la prueba
+=======================
 
 Todos los robots deberán presentarse antes de la competición para su verificación. Una vez verificados, los robots se pondrán en parque cerrado y no se permitirá modificar ni el hardware ni el sofware del robot, salvo en casos excepcionales y bajo la aprobación de los jueces de la competición.
 
@@ -6,7 +7,8 @@ Sí están permitidas las tareas de mantenimiento como la limpieza de los neumá
 
 La prueba se desarrollará en dos fases: clasificación y eliminatorias.
 
-## Fase de clasificación
+Fase de clasificación
+---------------------
 
 Los robots competirán individualmente en **2 intentos** de **1 vuelta** cronometrada al circuito. Solo se tendrá en cuenta el tiempo de la vuelta más rápida para la clasificación y no se permite reprogramar el robot entre intentos.
 
@@ -22,7 +24,8 @@ Se clasificarán los 4, 8 o 16 robots con mejor tiempo, a elección de la organi
 
 IMPORTANTE: En eventos con tiempo limitado, se podrá prescindir de la fase clasificatoria y pasar directamente a la fase eliminatoria con todos los robots participantes. En ese caso, los robots con más puntos en el ranking de la ORS se considerarán los primeros de la clasificación.
 
-## Fase eliminatoria
+Fase eliminatoria
+-----------------
 
 Los robots clasificados competirán en parejas en rondas eliminatorias, uno contra uno. Los cruces se realizarán siguiendo la clasificación de la fase anterior, de tal forma que el primero competirá contra el último, el segundo contra el penúltimo, etc. Y en caso de que queden puestos vacantes en los cruces o que se produzca algún abandono, el robot que quede sin rival en su enfrentamiento pasará automáticamente a la siguiente ronda eliminatoria.
 
