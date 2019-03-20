@@ -1,4 +1,5 @@
-# Circuito
+Circuito
+========
 
 El circuito consiste en una lona blanca de PVC con una o dos líneas negras que indican la trayectoria que debe seguir el robot. Estas líneas al mismo tiempo se utilizarán como guías que el robot podrá leer para conocer su posición. La utilización de una o dos líneas en el trazado y del sentido de giro quedan a elección de la organización del evento, pudiendo no desvelarse hasta el día de la competición.
 
@@ -14,4 +15,6 @@ La superficie de la pista podrá presentar pequeñas irregularidades, aunque se 
 
 A continuación se muestra un trazado de ejemplo para una competición de velocistas:
 
-<p align="center"><img src="images/circuito_ejemplo.jpg" width="900" align = "center"></p>
+.. figure:: images/circuito_ejemplo.jpg
+    :width: 900
+    :align: center
